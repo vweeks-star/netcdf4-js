@@ -1,3 +1,6 @@
+# WIP; forked from https://github.com/cheminfo/netcdfjs
+
+
 # netcdfjs
 
 [![NPM version][npm-image]][npm-url]
